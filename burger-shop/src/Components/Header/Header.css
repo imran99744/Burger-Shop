@@ -11,8 +11,10 @@
 .NavLink {
   text-decoration: none;
   color: white;
-  font-size: 25px;
-  margin-top: -25px;
+  font-size: 23px;
+  margin-top: -35px;
+  margin-right: 5px;
+  margin-left: 5px;
 }
 
 .NavLink:hover {

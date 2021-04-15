@@ -3,7 +3,7 @@ import React from "react";
 function Orders() {
   return (
     <div>
-      <p>Orders is processing</p>
+      <h2>Orders page is under construction</h2>
     </div>
   );
 }

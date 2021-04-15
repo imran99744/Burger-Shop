@@ -14,10 +14,13 @@ function Header() {
         <Nav className="mr-md-5">
           <NavItem>
             <NavLink exact to="/" className="NavLink">
-              Burger Builder
+              Home
             </NavLink>
             <NavLink exact to="/orders" className="NavLink">
               Orders
+            </NavLink>
+            <NavLink exact to="/login" className="NavLink">
+              Login
             </NavLink>
           </NavItem>
         </Nav>
